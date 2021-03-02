@@ -1,5 +1,5 @@
 import pyautogui as gui
 
-y = 'peos'
+y = 'douleuei'
 
-gui.alert(f'Your {y} is large', "Is your")
+gui.alert(f'To programma auto {y}', "MessageBox")
